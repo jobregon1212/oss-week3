@@ -16,3 +16,4 @@ Practice repository for the Open Source Software course.
 | Command | Purpose |
 | --- | --- |
 | git status | Inspect file states |
+| git add | Stage file for the next commit |
