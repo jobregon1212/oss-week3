@@ -1,3 +1,5 @@
+Branching practice is part of this repository.
+
 # OSS Week 3
 
 Practice repository for the Open Source Software course.
